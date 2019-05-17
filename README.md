@@ -1,4 +1,4 @@
-# Project
+# Project Data Privacy and Security
 Final project of the course CS-528 Data Privacy and Security
 
 Consist in a general DAPP of a general case use consisting in a Shopping List, which stores the information in a local blockchain, but stored using privacy method of k-anonymity, using diferent hierarchies to store the information of the food bought by the users. 
